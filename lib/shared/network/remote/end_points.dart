@@ -1,0 +1,9 @@
+const String LOGIN="login";
+const String HOME="home";
+const String GET_CATEGORY="categories";
+const String FAVOURITES="favorites";
+const String PROFILE="profile";
+const String UPDATE_PROFILE="update-profile";
+const String REGISTER="register";
+const String LOGOUT="logout";
+const String SEARCH="products/search";
